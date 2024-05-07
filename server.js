@@ -1,3 +1,4 @@
+// sets up the server and intergrates the routes
 const jsonServer = require("json-server");
 const cors = require("cors");
 const path = require("path");
